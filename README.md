@@ -13,4 +13,4 @@ I am a Frontend Developer. I know HTML, CSS, Sass, Bootstrap, Tachyons, Tailwind
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="40"></code>
 <code><img src="https://logodix.com/logo/941103.png" width="40"></code>
 <code><img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="40"></code>
-<code><img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="40"></code>
+<code><img src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" width="40"></code>
