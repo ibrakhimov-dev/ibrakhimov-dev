@@ -3,3 +3,6 @@
 <b>
 I am a Frontend Developer. I know HTML, CSS, Sass, Bootstrap, Tachyons, Tailwind Css technologies as well as Java Script programming language and its React Js framework level library. With the help of the listed programming languages ​​and technologies, I can make any web site a front-end part.
 </b>
+
+### Languages and tools I work with
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="50">
